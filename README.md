@@ -37,3 +37,7 @@ For the train sample : 
 * The input sample weights 140 MB, the output sample 6 MB
 
 For the test sample, the input sample is a 38 140 columns dataframe (260 MB), the output sample is still a 1000 columns dataframe (6 MB)
+
+## Source
+
+Lien du challenge: https://challengedata.ens.fr/participants/challenges/160/
